@@ -1,0 +1,1401 @@
+customer_id,region,segment
+1,North,Consumer
+2,South,Consumer
+3,North,Consumer
+4,West,Consumer
+5,South,Consumer
+6,North,Consumer
+7,South,Consumer
+8,East,Consumer
+9,West,Consumer
+10,North,Small business
+11,West,Consumer
+12,West,Consumer
+13,South,Consumer
+14,North,Consumer
+15,West,Small business
+16,North,Consumer
+17,East,Consumer
+18,East,Consumer
+19,West,Consumer
+20,North,Consumer
+21,North,Consumer
+22,North,Consumer
+23,North,Consumer
+24,South,Consumer
+25,South,Consumer
+26,East,Consumer
+27,South,Consumer
+28,East,Consumer
+29,East,Small business
+30,North,Consumer
+31,North,Consumer
+32,West,Consumer
+33,East,Consumer
+34,South,Small business
+35,North,Consumer
+36,West,Consumer
+37,South,Small business
+38,West,Small business
+39,North,Consumer
+40,North,Consumer
+41,West,Consumer
+42,West,Consumer
+43,East,Small business
+44,West,Consumer
+45,South,Consumer
+46,West,Consumer
+47,West,Consumer
+48,West,Consumer
+49,North,Consumer
+50,West,Consumer
+51,West,Consumer
+52,East,Consumer
+53,North,Consumer
+54,East,Small business
+55,North,Consumer
+56,North,Consumer
+57,West,Consumer
+58,South,Consumer
+59,North,Consumer
+60,East,Consumer
+61,West,Small business
+62,East,Consumer
+63,West,Consumer
+64,North,Small business
+65,West,Consumer
+66,South,Consumer
+67,West,Consumer
+68,South,Consumer
+69,East,Consumer
+70,East,Consumer
+71,South,Consumer
+72,West,Consumer
+73,North,Consumer
+74,South,Consumer
+75,East,Consumer
+76,North,Consumer
+77,North,Consumer
+78,West,Consumer
+79,North,Consumer
+80,West,Small business
+81,East,Consumer
+82,West,Consumer
+83,South,Consumer
+84,South,Small business
+85,East,Consumer
+86,West,Consumer
+87,North,Consumer
+88,East,Small business
+89,South,Consumer
+90,West,Consumer
+91,South,Consumer
+92,North,Consumer
+93,West,Consumer
+94,East,Consumer
+95,West,Consumer
+96,East,Consumer
+97,South,Consumer
+98,South,Consumer
+99,East,Consumer
+100,East,Consumer
+101,South,Consumer
+102,West,Consumer
+103,South,Consumer
+104,North,Consumer
+105,South,Consumer
+106,North,Consumer
+107,North,Small business
+108,West,Consumer
+109,East,Consumer
+110,East,Consumer
+111,North,Consumer
+112,East,Consumer
+113,West,Consumer
+114,North,Consumer
+115,North,Consumer
+116,South,Consumer
+117,North,Small business
+118,North,Consumer
+119,West,Consumer
+120,East,Consumer
+121,South,Consumer
+122,North,Consumer
+123,West,Consumer
+124,South,Consumer
+125,North,Consumer
+126,North,Small business
+127,East,Consumer
+128,South,Consumer
+129,North,Consumer
+130,East,Consumer
+131,South,Consumer
+132,North,Consumer
+133,East,Consumer
+134,East,Consumer
+135,East,Consumer
+136,South,Consumer
+137,South,Consumer
+138,South,Consumer
+139,South,Small business
+140,South,Consumer
+141,West,Consumer
+142,North,Consumer
+143,South,Consumer
+144,East,Consumer
+145,South,Consumer
+146,North,Small business
+147,North,Consumer
+148,South,Small business
+149,North,Consumer
+150,South,Consumer
+151,East,Consumer
+152,North,Consumer
+153,North,Consumer
+154,South,Consumer
+155,South,Consumer
+156,South,Consumer
+157,South,Consumer
+158,West,Small business
+159,South,Consumer
+160,East,Consumer
+161,North,Consumer
+162,East,Consumer
+163,East,Consumer
+164,North,Consumer
+165,South,Consumer
+166,West,Consumer
+167,West,Consumer
+168,West,Consumer
+169,South,Consumer
+170,East,Consumer
+171,North,Consumer
+172,East,Consumer
+173,South,Consumer
+174,South,Consumer
+175,West,Consumer
+176,West,Consumer
+177,North,Consumer
+178,West,Consumer
+179,South,Small business
+180,North,Consumer
+181,East,Consumer
+182,South,Consumer
+183,North,Consumer
+184,West,Small business
+185,South,Consumer
+186,South,Consumer
+187,South,Consumer
+188,East,Consumer
+189,North,Consumer
+190,South,Small business
+191,East,Consumer
+192,North,Consumer
+193,South,Consumer
+194,West,Small business
+195,South,Consumer
+196,East,Consumer
+197,East,Consumer
+198,West,Consumer
+199,South,Consumer
+200,North,Small business
+201,South,Consumer
+202,West,Consumer
+203,South,Consumer
+204,South,Consumer
+205,East,Consumer
+206,West,Consumer
+207,North,Consumer
+208,East,Consumer
+209,South,Consumer
+210,North,Small business
+211,South,Consumer
+212,East,Consumer
+213,East,Consumer
+214,North,Consumer
+215,North,Consumer
+216,West,Consumer
+217,North,Consumer
+218,West,Consumer
+219,East,Consumer
+220,East,Consumer
+221,North,Small business
+222,East,Small business
+223,South,Consumer
+224,South,Consumer
+225,North,Consumer
+226,South,Consumer
+227,East,Consumer
+228,North,Consumer
+229,North,Consumer
+230,South,Consumer
+231,East,Consumer
+232,East,Consumer
+233,West,Consumer
+234,South,Consumer
+235,South,Consumer
+236,East,Consumer
+237,South,Consumer
+238,North,Small business
+239,East,Consumer
+240,North,Consumer
+241,South,Consumer
+242,North,Consumer
+243,West,Consumer
+244,East,Consumer
+245,North,Consumer
+246,South,Small business
+247,West,Consumer
+248,North,Consumer
+249,North,Consumer
+250,South,Small business
+251,East,Small business
+252,North,Consumer
+253,North,Consumer
+254,West,Consumer
+255,West,Consumer
+256,West,Consumer
+257,West,Consumer
+258,North,Consumer
+259,North,Consumer
+260,North,Small business
+261,East,Consumer
+262,East,Consumer
+263,South,Consumer
+264,West,Consumer
+265,East,Consumer
+266,East,Consumer
+267,East,Consumer
+268,East,Small business
+269,West,Consumer
+270,East,Consumer
+271,West,Consumer
+272,North,Consumer
+273,East,Consumer
+274,North,Small business
+275,North,Consumer
+276,East,Consumer
+277,North,Consumer
+278,East,Consumer
+279,West,Consumer
+280,North,Consumer
+281,North,Small business
+282,West,Consumer
+283,West,Consumer
+284,East,Consumer
+285,East,Consumer
+286,South,Consumer
+287,North,Consumer
+288,North,Consumer
+289,North,Small business
+290,West,Consumer
+291,East,Consumer
+292,East,Consumer
+293,East,Consumer
+294,East,Consumer
+295,East,Consumer
+296,South,Consumer
+297,West,Consumer
+298,East,Consumer
+299,West,Consumer
+300,West,Consumer
+301,East,Consumer
+302,East,Consumer
+303,North,Consumer
+304,East,Consumer
+305,South,Consumer
+306,East,Consumer
+307,South,Consumer
+308,South,Consumer
+309,West,Small business
+310,East,Consumer
+311,East,Small business
+312,South,Consumer
+313,South,Consumer
+314,West,Consumer
+315,South,Consumer
+316,North,Consumer
+317,South,Consumer
+318,West,Consumer
+319,West,Consumer
+320,East,Consumer
+321,South,Consumer
+322,South,Consumer
+323,North,Consumer
+324,North,Consumer
+325,East,Small business
+326,East,Consumer
+327,North,Consumer
+328,East,Consumer
+329,North,Consumer
+330,East,Small business
+331,North,Consumer
+332,West,Consumer
+333,East,Consumer
+334,South,Consumer
+335,South,Small business
+336,North,Consumer
+337,North,Consumer
+338,South,Consumer
+339,North,Consumer
+340,East,Small business
+341,North,Small business
+342,East,Small business
+343,East,Consumer
+344,North,Consumer
+345,South,Consumer
+346,West,Consumer
+347,South,Consumer
+348,South,Consumer
+349,West,Consumer
+350,North,Consumer
+351,South,Consumer
+352,South,Consumer
+353,North,Small business
+354,North,Consumer
+355,West,Consumer
+356,South,Consumer
+357,North,Consumer
+358,North,Consumer
+359,East,Consumer
+360,North,Consumer
+361,South,Consumer
+362,North,Small business
+363,West,Consumer
+364,North,Consumer
+365,South,Consumer
+366,South,Consumer
+367,North,Consumer
+368,West,Consumer
+369,East,Consumer
+370,North,Consumer
+371,West,Consumer
+372,South,Consumer
+373,South,Small business
+374,East,Consumer
+375,South,Consumer
+376,East,Consumer
+377,South,Consumer
+378,West,Consumer
+379,West,Consumer
+380,East,Consumer
+381,South,Consumer
+382,East,Consumer
+383,North,Consumer
+384,North,Consumer
+385,West,Consumer
+386,South,Consumer
+387,East,Consumer
+388,North,Consumer
+389,West,Consumer
+390,South,Small business
+391,West,Consumer
+392,East,Consumer
+393,North,Small business
+394,North,Small business
+395,West,Consumer
+396,West,Consumer
+397,East,Consumer
+398,East,Consumer
+399,North,Consumer
+400,North,Small business
+401,North,Consumer
+402,East,Consumer
+403,North,Consumer
+404,North,Consumer
+405,South,Consumer
+406,North,Consumer
+407,West,Consumer
+408,South,Consumer
+409,East,Consumer
+410,South,Consumer
+411,North,Consumer
+412,East,Consumer
+413,North,Consumer
+414,South,Consumer
+415,North,Consumer
+416,South,Consumer
+417,East,Consumer
+418,South,Consumer
+419,East,Consumer
+420,North,Consumer
+421,East,Consumer
+422,North,Consumer
+423,West,Consumer
+424,West,Consumer
+425,East,Consumer
+426,South,Consumer
+427,West,Consumer
+428,West,Consumer
+429,East,Consumer
+430,East,Consumer
+431,West,Consumer
+432,East,Consumer
+433,West,Consumer
+434,West,Consumer
+435,West,Consumer
+436,North,Small business
+437,South,Consumer
+438,South,Consumer
+439,North,Consumer
+440,South,Consumer
+441,East,Consumer
+442,South,Consumer
+443,North,Small business
+444,South,Small business
+445,West,Consumer
+446,West,Small business
+447,South,Consumer
+448,East,Consumer
+449,North,Consumer
+450,North,Consumer
+451,South,Consumer
+452,South,Consumer
+453,East,Small business
+454,West,Consumer
+455,North,Consumer
+456,South,Consumer
+457,North,Consumer
+458,West,Consumer
+459,West,Small business
+460,South,Consumer
+461,West,Consumer
+462,North,Consumer
+463,South,Consumer
+464,South,Consumer
+465,North,Consumer
+466,West,Consumer
+467,West,Consumer
+468,North,Consumer
+469,East,Consumer
+470,North,Consumer
+471,West,Small business
+472,East,Consumer
+473,West,Consumer
+474,East,Consumer
+475,North,Consumer
+476,East,Consumer
+477,East,Consumer
+478,West,Consumer
+479,North,Consumer
+480,East,Consumer
+481,East,Small business
+482,South,Consumer
+483,West,Consumer
+484,East,Consumer
+485,East,Consumer
+486,East,Consumer
+487,West,Consumer
+488,South,Consumer
+489,West,Consumer
+490,East,Consumer
+491,West,Consumer
+492,East,Consumer
+493,East,Consumer
+494,East,Consumer
+495,East,Consumer
+496,South,Consumer
+497,South,Consumer
+498,South,Consumer
+499,North,Consumer
+500,North,Small business
+501,East,Consumer
+502,South,Consumer
+503,South,Consumer
+504,North,Consumer
+505,West,Consumer
+506,East,Consumer
+507,East,Consumer
+508,North,Consumer
+509,East,Small business
+510,South,Consumer
+511,South,Consumer
+512,West,Consumer
+513,North,Consumer
+514,East,Consumer
+515,West,Consumer
+516,East,Consumer
+517,South,Consumer
+518,East,Consumer
+519,East,Consumer
+520,North,Small business
+521,South,Consumer
+522,East,Consumer
+523,North,Consumer
+524,North,Consumer
+525,West,Consumer
+526,East,Consumer
+527,North,Consumer
+528,North,Consumer
+529,East,Consumer
+530,North,Consumer
+531,West,Consumer
+532,South,Consumer
+533,South,Small business
+534,South,Consumer
+535,North,Consumer
+536,South,Consumer
+537,East,Small business
+538,West,Small business
+539,East,Consumer
+540,East,Consumer
+541,North,Consumer
+542,South,Consumer
+543,West,Consumer
+544,West,Consumer
+545,East,Consumer
+546,North,Consumer
+547,South,Consumer
+548,South,Consumer
+549,East,Consumer
+550,North,Consumer
+551,East,Consumer
+552,North,Consumer
+553,North,Consumer
+554,East,Consumer
+555,South,Consumer
+556,North,Consumer
+557,East,Consumer
+558,North,Consumer
+559,East,Small business
+560,South,Consumer
+561,West,Consumer
+562,North,Consumer
+563,North,Consumer
+564,South,Consumer
+565,West,Consumer
+566,South,Consumer
+567,South,Consumer
+568,South,Consumer
+569,North,Consumer
+570,South,Consumer
+571,West,Consumer
+572,South,Consumer
+573,South,Consumer
+574,North,Consumer
+575,West,Small business
+576,South,Consumer
+577,North,Consumer
+578,North,Consumer
+579,South,Consumer
+580,North,Consumer
+581,East,Consumer
+582,North,Consumer
+583,North,Consumer
+584,South,Consumer
+585,West,Consumer
+586,South,Consumer
+587,West,Consumer
+588,East,Consumer
+589,South,Consumer
+590,North,Consumer
+591,South,Consumer
+592,West,Consumer
+593,South,Small business
+594,West,Small business
+595,South,Consumer
+596,North,Consumer
+597,East,Consumer
+598,East,Consumer
+599,East,Consumer
+600,East,Consumer
+601,East,Consumer
+602,North,Consumer
+603,West,Consumer
+604,North,Consumer
+605,West,Consumer
+606,North,Consumer
+607,South,Consumer
+608,North,Consumer
+609,South,Consumer
+610,South,Consumer
+611,East,Consumer
+612,South,Consumer
+613,North,Consumer
+614,North,Consumer
+615,East,Consumer
+616,East,Consumer
+617,North,Consumer
+618,South,Consumer
+619,East,Consumer
+620,East,Consumer
+621,North,Consumer
+622,East,Consumer
+623,East,Consumer
+624,East,Consumer
+625,North,Consumer
+626,South,Consumer
+627,North,Consumer
+628,South,Consumer
+629,North,Consumer
+630,South,Consumer
+631,East,Consumer
+632,North,Consumer
+633,North,Consumer
+634,West,Consumer
+635,North,Consumer
+636,North,Small business
+637,North,Consumer
+638,East,Consumer
+639,North,Consumer
+640,South,Consumer
+641,South,Consumer
+642,West,Consumer
+643,West,Small business
+644,South,Consumer
+645,East,Consumer
+646,North,Consumer
+647,South,Consumer
+648,East,Small business
+649,South,Consumer
+650,North,Consumer
+651,South,Consumer
+652,North,Small business
+653,South,Consumer
+654,West,Consumer
+655,South,Consumer
+656,East,Consumer
+657,East,Consumer
+658,South,Consumer
+659,North,Consumer
+660,West,Consumer
+661,East,Consumer
+662,South,Consumer
+663,East,Consumer
+664,West,Consumer
+665,East,Consumer
+666,North,Consumer
+667,South,Consumer
+668,East,Small business
+669,West,Consumer
+670,West,Consumer
+671,East,Small business
+672,West,Consumer
+673,East,Consumer
+674,East,Consumer
+675,West,Consumer
+676,North,Small business
+677,West,Consumer
+678,North,Consumer
+679,East,Consumer
+680,West,Consumer
+681,West,Consumer
+682,South,Consumer
+683,North,Small business
+684,West,Consumer
+685,West,Consumer
+686,West,Consumer
+687,South,Consumer
+688,South,Consumer
+689,West,Small business
+690,North,Consumer
+691,North,Consumer
+692,West,Consumer
+693,North,Consumer
+694,North,Consumer
+695,North,Consumer
+696,East,Small business
+697,North,Consumer
+698,South,Consumer
+699,South,Consumer
+700,East,Small business
+701,West,Consumer
+702,South,Consumer
+703,South,Consumer
+704,South,Consumer
+705,West,Consumer
+706,North,Small business
+707,West,Consumer
+708,South,Consumer
+709,South,Consumer
+710,East,Small business
+711,North,Consumer
+712,East,Consumer
+713,East,Small business
+714,South,Small business
+715,South,Consumer
+716,North,Consumer
+717,West,Consumer
+718,South,Consumer
+719,East,Consumer
+720,East,Small business
+721,East,Small business
+722,West,Consumer
+723,North,Consumer
+724,West,Consumer
+725,South,Consumer
+726,North,Consumer
+727,East,Consumer
+728,West,Small business
+729,West,Consumer
+730,South,Consumer
+731,West,Small business
+732,West,Consumer
+733,South,Consumer
+734,North,Small business
+735,South,Consumer
+736,North,Consumer
+737,North,Consumer
+738,South,Consumer
+739,North,Consumer
+740,West,Consumer
+741,West,Consumer
+742,West,Consumer
+743,East,Consumer
+744,East,Consumer
+745,East,Consumer
+746,West,Consumer
+747,South,Consumer
+748,North,Consumer
+749,South,Consumer
+750,South,Consumer
+751,South,Consumer
+752,West,Consumer
+753,North,Consumer
+754,East,Consumer
+755,West,Consumer
+756,West,Consumer
+757,North,Consumer
+758,North,Small business
+759,West,Small business
+760,South,Consumer
+761,West,Consumer
+762,East,Consumer
+763,East,Consumer
+764,North,Consumer
+765,East,Consumer
+766,North,Small business
+767,South,Consumer
+768,North,Consumer
+769,East,Consumer
+770,South,Consumer
+771,East,Consumer
+772,North,Consumer
+773,West,Consumer
+774,East,Consumer
+775,West,Consumer
+776,North,Consumer
+777,West,Small business
+778,East,Consumer
+779,North,Consumer
+780,West,Consumer
+781,West,Consumer
+782,East,Consumer
+783,West,Consumer
+784,West,Consumer
+785,North,Consumer
+786,North,Small business
+787,North,Consumer
+788,East,Consumer
+789,West,Consumer
+790,North,Consumer
+791,West,Consumer
+792,South,Consumer
+793,East,Consumer
+794,East,Consumer
+795,South,Consumer
+796,East,Consumer
+797,East,Consumer
+798,West,Consumer
+799,North,Consumer
+800,East,Consumer
+801,East,Consumer
+802,West,Consumer
+803,North,Consumer
+804,North,Consumer
+805,South,Consumer
+806,South,Small business
+807,East,Consumer
+808,West,Consumer
+809,West,Consumer
+810,West,Small business
+811,West,Small business
+812,West,Consumer
+813,East,Consumer
+814,West,Consumer
+815,North,Consumer
+816,East,Consumer
+817,North,Consumer
+818,West,Consumer
+819,East,Consumer
+820,South,Small business
+821,East,Consumer
+822,North,Consumer
+823,North,Consumer
+824,South,Consumer
+825,West,Consumer
+826,South,Consumer
+827,West,Consumer
+828,North,Consumer
+829,South,Consumer
+830,West,Consumer
+831,West,Consumer
+832,South,Consumer
+833,East,Consumer
+834,West,Consumer
+835,North,Consumer
+836,South,Consumer
+837,North,Small business
+838,West,Consumer
+839,East,Small business
+840,East,Consumer
+841,West,Consumer
+842,West,Consumer
+843,North,Small business
+844,East,Consumer
+845,East,Small business
+846,North,Consumer
+847,North,Consumer
+848,West,Consumer
+849,North,Consumer
+850,East,Small business
+851,North,Consumer
+852,South,Consumer
+853,West,Consumer
+854,South,Consumer
+855,West,Small business
+856,West,Consumer
+857,North,Consumer
+858,West,Consumer
+859,West,Consumer
+860,South,Consumer
+861,North,Consumer
+862,South,Consumer
+863,North,Consumer
+864,West,Consumer
+865,East,Small business
+866,South,Consumer
+867,East,Consumer
+868,West,Consumer
+869,South,Consumer
+870,North,Consumer
+871,North,Consumer
+872,West,Consumer
+873,South,Consumer
+874,West,Consumer
+875,South,Consumer
+876,West,Consumer
+877,West,Small business
+878,West,Consumer
+879,South,Consumer
+880,West,Consumer
+881,West,Consumer
+882,East,Consumer
+883,East,Consumer
+884,West,Consumer
+885,West,Small business
+886,West,Consumer
+887,West,Small business
+888,West,Consumer
+889,South,Consumer
+890,East,Consumer
+891,South,Consumer
+892,East,Consumer
+893,South,Small business
+894,West,Consumer
+895,West,Consumer
+896,East,Consumer
+897,South,Consumer
+898,East,Consumer
+899,East,Consumer
+900,East,Consumer
+901,North,Consumer
+902,East,Consumer
+903,East,Consumer
+904,West,Consumer
+905,East,Consumer
+906,North,Consumer
+907,South,Consumer
+908,West,Consumer
+909,North,Consumer
+910,North,Consumer
+911,West,Consumer
+912,South,Consumer
+913,South,Small business
+914,North,Small business
+915,South,Consumer
+916,North,Consumer
+917,West,Consumer
+918,East,Consumer
+919,West,Consumer
+920,North,Consumer
+921,East,Consumer
+922,West,Consumer
+923,South,Consumer
+924,East,Consumer
+925,East,Consumer
+926,South,Small business
+927,West,Consumer
+928,South,Consumer
+929,North,Consumer
+930,South,Consumer
+931,North,Consumer
+932,South,Consumer
+933,South,Consumer
+934,North,Consumer
+935,North,Small business
+936,West,Consumer
+937,West,Consumer
+938,South,Small business
+939,West,Consumer
+940,North,Consumer
+941,North,Consumer
+942,North,Consumer
+943,North,Consumer
+944,East,Consumer
+945,East,Consumer
+946,East,Consumer
+947,North,Consumer
+948,West,Consumer
+949,West,Consumer
+950,North,Small business
+951,North,Consumer
+952,East,Consumer
+953,South,Consumer
+954,South,Consumer
+955,South,Consumer
+956,South,Consumer
+957,East,Small business
+958,South,Consumer
+959,East,Consumer
+960,North,Consumer
+961,South,Consumer
+962,South,Small business
+963,North,Consumer
+964,South,Consumer
+965,West,Consumer
+966,West,Consumer
+967,North,Consumer
+968,North,Consumer
+969,East,Consumer
+970,South,Consumer
+971,North,Small business
+972,West,Consumer
+973,North,Consumer
+974,West,Consumer
+975,South,Consumer
+976,North,Consumer
+977,South,Consumer
+978,East,Consumer
+979,North,Consumer
+980,North,Consumer
+981,East,Consumer
+982,West,Consumer
+983,West,Consumer
+984,East,Consumer
+985,West,Consumer
+986,West,Consumer
+987,South,Consumer
+988,North,Consumer
+989,North,Consumer
+990,West,Consumer
+991,East,Consumer
+992,North,Consumer
+993,North,Small business
+994,South,Consumer
+995,North,Consumer
+996,West,Consumer
+997,North,Consumer
+998,West,Consumer
+999,North,Small business
+1000,East,Small business
+1001,West,Consumer
+1002,East,Consumer
+1003,North,Consumer
+1004,North,Consumer
+1005,East,Consumer
+1006,North,Consumer
+1007,South,Consumer
+1008,South,Consumer
+1009,North,Consumer
+1010,North,Small business
+1011,West,Consumer
+1012,North,Consumer
+1013,East,Consumer
+1014,North,Small business
+1015,South,Consumer
+1016,South,Consumer
+1017,North,Consumer
+1018,West,Consumer
+1019,North,Consumer
+1020,West,Consumer
+1021,East,Consumer
+1022,North,Consumer
+1023,West,Consumer
+1024,South,Small business
+1025,West,Consumer
+1026,North,Consumer
+1027,East,Consumer
+1028,North,Consumer
+1029,West,Consumer
+1030,West,Consumer
+1031,West,Consumer
+1032,East,Small business
+1033,West,Small business
+1034,South,Small business
+1035,West,Consumer
+1036,North,Consumer
+1037,East,Consumer
+1038,South,Consumer
+1039,North,Consumer
+1040,West,Small business
+1041,North,Consumer
+1042,East,Consumer
+1043,East,Consumer
+1044,South,Consumer
+1045,East,Consumer
+1046,South,Small business
+1047,South,Consumer
+1048,East,Consumer
+1049,North,Consumer
+1050,North,Small business
+1051,North,Consumer
+1052,North,Consumer
+1053,South,Consumer
+1054,East,Consumer
+1055,South,Consumer
+1056,West,Consumer
+1057,South,Consumer
+1058,West,Small business
+1059,West,Small business
+1060,West,Consumer
+1061,West,Consumer
+1062,South,Small business
+1063,West,Consumer
+1064,East,Consumer
+1065,West,Consumer
+1066,East,Consumer
+1067,West,Consumer
+1068,North,Consumer
+1069,West,Small business
+1070,North,Small business
+1071,West,Consumer
+1072,West,Small business
+1073,North,Consumer
+1074,West,Consumer
+1075,North,Consumer
+1076,North,Consumer
+1077,East,Consumer
+1078,South,Consumer
+1079,West,Consumer
+1080,South,Small business
+1081,South,Consumer
+1082,North,Consumer
+1083,South,Consumer
+1084,South,Small business
+1085,East,Consumer
+1086,North,Consumer
+1087,North,Consumer
+1088,South,Consumer
+1089,North,Consumer
+1090,East,Consumer
+1091,North,Consumer
+1092,West,Consumer
+1093,West,Consumer
+1094,North,Small business
+1095,South,Consumer
+1096,North,Small business
+1097,North,Consumer
+1098,South,Consumer
+1099,South,Small business
+1100,East,Consumer
+1101,North,Small business
+1102,North,Small business
+1103,East,Consumer
+1104,West,Consumer
+1105,West,Consumer
+1106,North,Consumer
+1107,North,Consumer
+1108,North,Consumer
+1109,South,Consumer
+1110,East,Consumer
+1111,East,Consumer
+1112,East,Small business
+1113,West,Consumer
+1114,East,Consumer
+1115,West,Consumer
+1116,North,Consumer
+1117,North,Consumer
+1118,North,Consumer
+1119,North,Small business
+1120,East,Consumer
+1121,South,Consumer
+1122,West,Small business
+1123,North,Consumer
+1124,North,Consumer
+1125,West,Consumer
+1126,South,Consumer
+1127,North,Consumer
+1128,South,Consumer
+1129,South,Consumer
+1130,North,Consumer
+1131,East,Consumer
+1132,West,Consumer
+1133,East,Consumer
+1134,West,Consumer
+1135,South,Consumer
+1136,East,Consumer
+1137,East,Consumer
+1138,East,Consumer
+1139,North,Consumer
+1140,North,Small business
+1141,North,Small business
+1142,East,Consumer
+1143,North,Small business
+1144,West,Consumer
+1145,North,Consumer
+1146,West,Small business
+1147,West,Consumer
+1148,West,Small business
+1149,East,Consumer
+1150,West,Consumer
+1151,South,Consumer
+1152,West,Consumer
+1153,East,Consumer
+1154,East,Consumer
+1155,North,Small business
+1156,South,Consumer
+1157,South,Consumer
+1158,East,Consumer
+1159,South,Small business
+1160,North,Consumer
+1161,West,Consumer
+1162,South,Consumer
+1163,East,Small business
+1164,South,Consumer
+1165,North,Consumer
+1166,North,Consumer
+1167,North,Consumer
+1168,East,Consumer
+1169,North,Consumer
+1170,East,Consumer
+1171,East,Consumer
+1172,South,Consumer
+1173,East,Small business
+1174,South,Small business
+1175,South,Consumer
+1176,East,Consumer
+1177,West,Small business
+1178,West,Consumer
+1179,South,Consumer
+1180,North,Small business
+1181,West,Consumer
+1182,North,Consumer
+1183,West,Consumer
+1184,West,Consumer
+1185,South,Consumer
+1186,East,Consumer
+1187,East,Consumer
+1188,West,Consumer
+1189,West,Consumer
+1190,West,Small business
+1191,South,Consumer
+1192,East,Consumer
+1193,North,Consumer
+1194,East,Consumer
+1195,South,Consumer
+1196,West,Consumer
+1197,West,Small business
+1198,East,Consumer
+1199,South,Consumer
+1200,South,Small business
+1201,East,Consumer
+1202,North,Consumer
+1203,South,Consumer
+1204,South,Consumer
+1205,East,Consumer
+1206,East,Consumer
+1207,West,Small business
+1208,South,Consumer
+1209,South,Consumer
+1210,South,Consumer
+1211,North,Consumer
+1212,South,Consumer
+1213,West,Consumer
+1214,West,Small business
+1215,West,Consumer
+1216,West,Consumer
+1217,South,Consumer
+1218,West,Consumer
+1219,South,Consumer
+1220,South,Consumer
+1221,South,Consumer
+1222,West,Consumer
+1223,East,Consumer
+1224,East,Small business
+1225,South,Small business
+1226,West,Consumer
+1227,North,Small business
+1228,North,Consumer
+1229,South,Consumer
+1230,East,Consumer
+1231,West,Consumer
+1232,West,Consumer
+1233,West,Consumer
+1234,East,Consumer
+1235,East,Small business
+1236,North,Consumer
+1237,South,Consumer
+1238,West,Consumer
+1239,South,Consumer
+1240,East,Consumer
+1241,North,Consumer
+1242,East,Consumer
+1243,North,Consumer
+1244,South,Consumer
+1245,North,Consumer
+1246,North,Small business
+1247,North,Consumer
+1248,South,Consumer
+1249,South,Consumer
+1250,South,Consumer
+1251,East,Small business
+1252,South,Small business
+1253,West,Consumer
+1254,North,Small business
+1255,South,Consumer
+1256,North,Small business
+1257,East,Consumer
+1258,East,Small business
+1259,South,Small business
+1260,North,Consumer
+1261,East,Small business
+1262,West,Consumer
+1263,North,Small business
+1264,South,Consumer
+1265,South,Consumer
+1266,East,Consumer
+1267,South,Consumer
+1268,South,Consumer
+1269,West,Consumer
+1270,East,Consumer
+1271,North,Consumer
+1272,West,Consumer
+1273,West,Consumer
+1274,West,Consumer
+1275,North,Consumer
+1276,East,Consumer
+1277,West,Consumer
+1278,West,Consumer
+1279,West,Consumer
+1280,North,Consumer
+1281,North,Consumer
+1282,North,Consumer
+1283,East,Consumer
+1284,North,Consumer
+1285,West,Small business
+1286,North,Consumer
+1287,West,Small business
+1288,South,Small business
+1289,South,Consumer
+1290,East,Consumer
+1291,West,Consumer
+1292,North,Consumer
+1293,East,Small business
+1294,East,Consumer
+1295,South,Consumer
+1296,East,Consumer
+1297,South,Consumer
+1298,West,Consumer
+1299,West,Consumer
+1300,North,Consumer
+1301,North,Consumer
+1302,East,Consumer
+1303,West,Small business
+1304,East,Consumer
+1305,South,Consumer
+1306,West,Small business
+1307,North,Consumer
+1308,North,Consumer
+1309,East,Small business
+1310,South,Small business
+1311,South,Consumer
+1312,South,Consumer
+1313,North,Consumer
+1314,West,Consumer
+1315,North,Consumer
+1316,South,Consumer
+1317,South,Small business
+1318,East,Consumer
+1319,West,Small business
+1320,South,Consumer
+1321,West,Small business
+1322,East,Consumer
+1323,North,Consumer
+1324,North,Consumer
+1325,East,Consumer
+1326,East,Small business
+1327,West,Consumer
+1328,South,Consumer
+1329,South,Consumer
+1330,East,Consumer
+1331,South,Consumer
+1332,South,Consumer
+1333,West,Consumer
+1334,South,Consumer
+1335,North,Consumer
+1336,West,Consumer
+1337,South,Consumer
+1338,South,Consumer
+1339,East,Consumer
+1340,South,Consumer
+1341,West,Small business
+1342,East,Consumer
+1343,East,Consumer
+1344,North,Consumer
+1345,South,Consumer
+1346,East,Consumer
+1347,North,Consumer
+1348,South,Consumer
+1349,South,Consumer
+1350,North,Consumer
+1351,North,Consumer
+1352,East,Consumer
+1353,West,Consumer
+1354,East,Consumer
+1355,South,Consumer
+1356,East,Consumer
+1357,West,Consumer
+1358,West,Consumer
+1359,West,Consumer
+1360,West,Consumer
+1361,East,Consumer
+1362,East,Consumer
+1363,North,Consumer
+1364,South,Consumer
+1365,North,Consumer
+1366,North,Consumer
+1367,East,Consumer
+1368,South,Consumer
+1369,East,Consumer
+1370,East,Consumer
+1371,North,Consumer
+1372,North,Small business
+1373,West,Consumer
+1374,West,Consumer
+1375,West,Consumer
+1376,South,Consumer
+1377,West,Small business
+1378,South,Consumer
+1379,South,Small business
+1380,North,Small business
+1381,West,Small business
+1382,East,Consumer
+1383,South,Consumer
+1384,North,Consumer
+1385,North,Consumer
+1386,South,Consumer
+1387,East,Consumer
+1388,North,Small business
+1389,East,Consumer
+1390,East,Consumer
+1391,South,Consumer
+1392,East,Consumer
+1393,West,Consumer
+1394,South,Consumer
+1395,East,Consumer
+1396,South,Small business
+1397,East,Consumer
+1398,West,Small business
+1399,South,Consumer
+1400,North,Consumer

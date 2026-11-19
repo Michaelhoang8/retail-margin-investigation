@@ -1,0 +1,25 @@
+product_id,category,product,list_price_cents,unit_cost_cents
+1,Apparel,Apparel 01,6500,2730
+2,Apparel,Apparel 02,7000,2940
+3,Apparel,Apparel 03,7500,3150
+4,Apparel,Apparel 04,8000,3360
+5,Apparel,Apparel 05,8500,3570
+6,Apparel,Apparel 06,9000,3780
+7,Home,Home 01,12000,6600
+8,Home,Home 02,12500,6875
+9,Home,Home 03,13000,7150
+10,Home,Home 04,13500,7425
+11,Home,Home 05,14000,7700
+12,Home,Home 06,14500,7975
+13,Electronics,Electronics 01,24000,17280
+14,Electronics,Electronics 02,24500,17640
+15,Electronics,Electronics 03,25000,18000
+16,Electronics,Electronics 04,25500,18360
+17,Electronics,Electronics 05,26000,18720
+18,Electronics,Electronics 06,26500,19080
+19,Accessories,Accessories 01,3500,980
+20,Accessories,Accessories 02,4000,1120
+21,Accessories,Accessories 03,4500,1260
+22,Accessories,Accessories 04,5000,1400
+23,Accessories,Accessories 05,5500,1540
+24,Accessories,Accessories 06,6000,1680

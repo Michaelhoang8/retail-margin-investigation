@@ -1,0 +1,38 @@
+{
+  "capture_date": "2026-11-19",
+  "source": "Native Power BI Desktop on Windows",
+  "method": "Edited step walkthrough from actual screenshots; not continuous manual-authoring footage",
+  "seconds_per_frame": 6,
+  "frames": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "title": "Overview",
+      "description": "All 12,000 orders; contribution margin is a ratio of sums.",
+      "sha256": "b26ef6051e1013e81f977ea195ce360ffe3acd6751f301afa8e386cc5aedc749"
+    },
+    {
+      "path": "docs/screenshots/02_year_filter.png",
+      "title": "2025 filter",
+      "description": "6,002 orders; 26.3% contribution margin. Compare with SQL 01.",
+      "sha256": "741d97dfe27d2a10eb37f008853d05ceaa9cc77494b1361624e899bddfaf7ecc"
+    },
+    {
+      "path": "docs/screenshots/03_diagnosis.png",
+      "title": "Discount diagnosis",
+      "description": "Inspect category/tier differences and the order-volume denominators.",
+      "sha256": "ff5521f51a678e254e90aa4ff760a8e15c3fe17ad26dd756e8ba66151b3d19be"
+    },
+    {
+      "path": "docs/screenshots/04_relationships.png",
+      "title": "Relationships",
+      "description": "Products and customers filter the orders fact through many-to-one relationships.",
+      "sha256": "ed0b6f03ec82b173d5b884ec1eef48944cff9145c335b4f87dd3e14c9a82a863"
+    },
+    {
+      "path": "docs/screenshots/05_clean_orders.png",
+      "title": "Loaded orders",
+      "description": "12,000 clean order rows loaded in Power BI Desktop.",
+      "sha256": "7e4deac7c8802b080cdf86b8f66f6259889752725f979e09041c5fc63f1aaf3f"
+    }
+  ]
+}

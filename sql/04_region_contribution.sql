@@ -1,0 +1,1 @@
+SELECT c.region,COUNT(*) orders,SUM(o.net_revenue_cents)/100.0 revenue,SUM(o.contribution_cents)/100.0 contribution,1.0*SUM(o.contribution_cents)/SUM(o.net_revenue_cents) margin FROM orders o JOIN customers c USING(customer_id) GROUP BY c.region ORDER BY contribution DESC

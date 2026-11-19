@@ -1,0 +1,13 @@
+{
+  "raw_orders": 12132,
+  "duplicate_rows_removed": 120,
+  "quarantined_orders": 12,
+  "channel_values_normalized": 24,
+  "clean_orders": 12000,
+  "orphan_products": 0,
+  "orphan_customers": 0,
+  "revenue_bridge_residual_cents": 0,
+  "currency": "USD",
+  "snapshot": "2026-02-01",
+  "seed": 81427
+}

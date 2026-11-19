@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,product_id,channel,quantity,discount_pct,returned_units,shipping_cents,return_handling_cents,reason
+BAD000,2025-10-27,203,6, web ,-1,0,0,450,0,Invalid quantity or returned units
+BAD001,2024-09-12,1344,20, web ,-1,0,0,950,0,Invalid quantity or returned units
+BAD002,2025-05-03,776,22, web ,-1,0,0,650,0,Invalid quantity or returned units
+BAD003,2024-02-09,660,4, web ,-1,20,1,650,800,Invalid quantity or returned units
+BAD004,2024-02-19,1103,9, web ,-1,0,0,650,0,Invalid quantity or returned units
+BAD005,2025-01-02,872,22, web ,-1,30,0,450,0,Invalid quantity or returned units
+BAD006,2025-04-30,968,22, web ,-1,10,0,450,0,Invalid quantity or returned units
+BAD007,2025-02-03,912,2, web ,-1,0,0,950,0,Invalid quantity or returned units
+BAD008,2025-11-02,240,11, web ,-1,0,0,950,0,Invalid quantity or returned units
+BAD009,2024-05-14,388,8, web ,-1,10,0,650,0,Invalid quantity or returned units
+BAD010,2025-10-07,1007,20, web ,-1,0,0,950,0,Invalid quantity or returned units
+BAD011,2024-08-25,777,1, web ,-1,0,1,450,800,Invalid quantity or returned units

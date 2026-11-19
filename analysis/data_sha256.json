@@ -1,0 +1,8 @@
+{
+  "data/raw/customers.csv": "68c271bbd6a10ed8290f281e098c61a05e99745377eeaf976154fefa2e4e3da7",
+  "data/raw/orders.csv": "56ddbef4cb0971a608ac243262dc841e076ec54e4d7bfeab1cddfdc72f1d49d2",
+  "data/raw/products.csv": "3fd215cb3be6624688366f25b6ab713bf23c67eb1a53a94d8b8023ed02c4e069",
+  "data/clean/customers.csv": "68c271bbd6a10ed8290f281e098c61a05e99745377eeaf976154fefa2e4e3da7",
+  "data/clean/orders.csv": "3b0944fe389c91b9f2e63dd497cdf946080abd998525ae2546f6358ca326e872",
+  "data/clean/products.csv": "3fd215cb3be6624688366f25b6ab713bf23c67eb1a53a94d8b8023ed02c4e069"
+}

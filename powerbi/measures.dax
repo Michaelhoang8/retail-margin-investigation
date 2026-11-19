@@ -1,0 +1,23 @@
+// Format: #,0
+Orders = COUNTROWS(orders)
+
+// Format: $#,0
+Net revenue = DIVIDE(SUM(orders[net_revenue_cents]),100)
+
+// Format: $#,0
+Contribution = DIVIDE(SUM(orders[contribution_cents]),100)
+
+// Format: 0.0%
+Contribution margin = DIVIDE([Contribution],[Net revenue])
+
+// Format: 0.0%
+Unit return rate = DIVIDE(SUM(orders[returned_units]),SUM(orders[quantity]))
+
+// Format: $#,0
+Discounts = DIVIDE(SUM(orders[discount_cents]),100)
+
+// Format: $#,0
+Refunds = DIVIDE(SUM(orders[refund_cents]),100)
+
+// Format: $#,0
+Gross sales = DIVIDE(SUM(orders[gross_sales_cents]),100)

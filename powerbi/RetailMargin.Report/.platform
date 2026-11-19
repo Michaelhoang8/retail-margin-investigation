@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "RetailMargin"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "aaa50586-19b6-410f-9f1b-93745d1b0019"
+  }
+}
